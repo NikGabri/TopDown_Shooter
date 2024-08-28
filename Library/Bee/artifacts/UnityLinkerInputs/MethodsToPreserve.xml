@@ -1,0 +1,11 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="GameManager">
+			<method name="NextScene"/>
+			<method name="NextScene"/>
+		</type>
+		<type fullname="Menu">
+			<method name="NextScene"/>
+		</type>
+	</assembly>
+</linker>
